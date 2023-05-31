@@ -31,7 +31,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Buscador de ônibus tem como objetivo auxiliar o acesso dos munípes de Santana de Parnaíba na busca pelos Itinerários, horários, localização em tempo real, condições de trânsito e condições climáticas
+O Buscador de eventos culturais tem como objetivo fornecer informações relevantes e de fácil acesso aos usuários,
+uma aplicação capaz de buscar eventos de seu interesse pessoal, tais como shows, exposições, gastronomia, peças teatrais, cinema e arte.
 
 - [Visite o projeto online](http://127.0.0.1:5500/index.html?search=&cidades=Espet%C3%A1culos#gsc.tab=1&gsc.sort=&gsc.q=m%C3%BAsica&gsc.page=1)
 
