@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <img alt="License" src="http://127.0.0.1:5500/index.html">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="projeto Rota Cultural" src="C:\Users\User\Dropbox\Projetos Pessoais\Novo Buscar_PI3\assets\Capturar.PNG" width="100%">
+  <img alt="projeto Rota Cultural" src="C:\Users\User\Dropbox\Projetos Pessoais\Novo Buscar_PI3\assets\imagem_RedME.PNG" width="100%">
 </p>
 
 
