@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto Rota Cultural" src="C:\Users\User\Dropbox\Projetos Pessoais\Novo Buscar_PI3\assets\imagem_RedME.PNG" width="100%">
+  <img alt="projeto Rota Cultural" src="./assets/imagem_RedMe.PNG" width="100%">
 </p>
 
 
