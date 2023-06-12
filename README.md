@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto Rota Cultural" src="./assets/imagem_RedMe.PNG" width="100%">
+  <img alt="projeto Rota Cultural" src=".github/assets/Capa_Github.PNG" width="100%">
 </p>
 
 
