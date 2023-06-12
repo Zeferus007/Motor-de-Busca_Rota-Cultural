@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto Rota Cultural" src=".github/Capa_Github.PNG" width="100%">
+  <img alt="projeto Rota Cultural" src="C:\Users\User\Dropbox\Projetos Pessoais\Novo Buscador_PI3\assets\Capa_Github.PNG" width="100%">
 </p>
 
 
