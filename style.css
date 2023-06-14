@@ -1,17 +1,21 @@
+  /* configurações básicas para todos os elementos */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
   }
   
+  /* Define o tamanho de fonte padrão*/
   :root {
     font-size: 62.5%;
   }
   
+  /* Define o tamanho de fonte para o corpo*/
   body {
     font-size: 1.6rem;
   }
   
+  /* estilo do cabeçalho*/
   header {
     height: 35.2rem;    
     position: relative;
@@ -21,6 +25,7 @@
     
   }
   
+  /* estilo para as imagens do topo do cabeçalho */
   header .img-top {
     position: absolute;
     top: 0;
@@ -28,7 +33,7 @@
     width: 40.7rem;
     height: 34.5rem;
   }
-  
+  /* Estilo para as imagens da parte inferior do cabeçalho */
   header .img-bottom {
     position: absolute;
     bottom: 0;
@@ -36,7 +41,8 @@
     width: 41.4rem;
     height: 33.0rem;
   }
-  
+
+  /* Estilo para o conteúdo do cabeçalho */
   header #content {
     width: 99.3rem;
     height: 33.2rem;
@@ -48,12 +54,14 @@
     margin: auto;
   }
   
+  /* Estilo para o texto do conteúdo do cabeçalho */
   header #content .content-text {
     text-align: center;
     margin-bottom: 4rem;
     
   }
   
+  /* Estilo para os parágrafos do conteúdo do cabeçalho */
   header #content .content-text p {
     font-family: 'Roboto';
     font-weight: 500;
@@ -66,6 +74,7 @@
     
   }
   
+  /* Estilo para os títulos do conteúdo do cabeçalho */
   header #content .content-text h1 {
     font-family: 'Roboto';
     font-weight: 700;
@@ -75,11 +84,12 @@
     
     
   }
-  
+  /* Estilo para a parte do título com a cor azul */
   header #content .content-text h1 span {
     color: #6246EA;
   }
 
+  /* Estilo para o logotipo */
  .logo{
     width: 25.3rem;
     height: 10.8rem;
@@ -89,6 +99,7 @@
     
  }
   
+  /* Estilo para o formulário */
   form {
     display: flex;
     gap: 2.3rem;
@@ -101,6 +112,7 @@
     margin-top: 120px;
   }
   
+  /* Estilo para o campo de pesquisa do formulário */
   form #form-search {
     display: flex;
     align-items: center;
@@ -113,7 +125,7 @@
   }
   
   
-  
+  /* Estilo para a entrada de texto do formulário */
   form input {
     width: 29rem;
     height: 1.6rem;
@@ -125,12 +137,14 @@
     line-height: 100%;
     background-color: transparent;
   }
-  
+
+  /* Estilizações para o texto de placeholder na entrada de texto do formulário */
   form input::placeholder {
     color: #7C7C8A;
         
   }
   
+
   form #form-location {
     display: flex;
     align-items: center;
@@ -155,7 +169,7 @@
     
   }
   
-  
+  /* Estilo para o botão do formulário */
   form button {
     padding: 0.5rem 3.2rem;
     background-color: #6246EA;
@@ -171,16 +185,19 @@
     margin-left: 180px;
   }
   
+  /* Estilo para o botão do formulário quando hover */
   form button:hover {
     background-color: white;
     color: #6246EA;
   }
 
+  /* Estilo para a imagem de localização no formulário */
   #form-location .location{
     width: 3.0rem;
     height: 2.5rem;
   }
   
+  /* Estilo para o conteúdo principal */
   main {
     width: 121.6rem;
     height: 112.1rem;
@@ -190,6 +207,7 @@
     margin-right: auto;
   }
   
+  /* Estilo para o título */
   main #title {
     display: flex;
     justify-content: space-between;
@@ -257,6 +275,7 @@
     color: white;
   }
 
+  /* Estilo para os parágrafos */
   p {
     text-align: center;
     margin-top: -13px ;
@@ -267,10 +286,12 @@
     
   }
 
+  /* Estilo para as partes destacadas dos parágrafos */
   p span {
     color: #6246EA;
   }
   
+  /* Estil0 para os cards */
   section {
     display: flex;
     flex-wrap: wrap;
@@ -279,7 +300,7 @@
     height: 103.3rem;
     margin-top: 4rem;
   }
-  
+  /* Estilo para os títulos dos cards */
   section .card {
     width: 38.4rem;
     height: 32.3rem;
